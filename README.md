@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lou1043
+- 👋 Hi, I’m @lou
 - 👀 I’m interested in IT、Secure、Programme
 - 🌱 I’m currently learning Emacs
 - 💞️ I’m looking to collaborate on ...
